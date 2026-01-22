@@ -21,7 +21,7 @@ Mean values alone often obscure variability patterns that are central to underst
 - HDBSCAN identified distinct density-based groupings without predefined labels  
 - A subset of individuals was classified as noise, indicating atypical or extreme instability patterns  
 - Lifestyle-related variables showed weak but non-random associations with certain instability profiles
-- 
+  
 ## Interpreting the Discovered Groups
 
 Unsupervised clustering revealed distinct **instability archetypes**:
