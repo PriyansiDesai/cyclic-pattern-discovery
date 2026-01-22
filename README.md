@@ -16,6 +16,12 @@ in how stable or unstable their behavior is over time.
 - HDBSCAN for density-based, unsupervised clustering
 - Post-hoc comparison of lifestyle factors (sleep, stress, BMI)
 
+## Observations
+- Individuals with similar average cycle lengths showed markedly different temporal stability
+- Variability-based features separated individuals more clearly than mean-based features
+- Unsupervised clustering revealed distinct instability profiles without predefined labels
+- Lifestyle-related variables showed weak but non-random associations with instability patterns
+
 ## Key Takeaways
 - Instability is multi-dimensional, not a single scalar quantity
 - Natural groupings emerge without labels or medical thresholds
