@@ -27,6 +27,12 @@ in how stable or unstable their behavior is over time.
 - Natural groupings emerge without labels or medical thresholds
 - Averages alone hide meaningful behavioral structure
 
+## Clustering Output
+![HDBSCAN Clusters](HDBSCAN Clusters on PCA.png)
+
+## Feature Correlation
+![Correlation Matrix](Correlation Matrix of Features.png)
+
 ## Notes
 This repository contains exploratory research code focused on analysis and reasoning,
 not production-level engineering.
