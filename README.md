@@ -1,3 +1,17 @@
-# cyclic-pattern-discovery
-Unsupervised analysis of noisy human cyclic data to discover variability patterns.  
-This is a data analysis project; no predictions or health advice are derived.
+# Pattern Discovery in Noisy Human Cyclic Data
+
+# Motivation
+Why averages fail for human behavioral data.
+
+# Approach
+- Variability-based feature engineering
+- PCA for latent structure
+- HDBSCAN for unsupervised grouping
+
+# Key Findings
+- Instability is multi-dimensional
+- Natural behavioral clusters emerge without labels
+- Lifestyle differences appear post-hoc
+
+# Notes
+This is exploratory research code, not production code.
